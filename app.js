@@ -6,3 +6,7 @@ function helloWorld() {
 function secondFunction() {
   alert("This is number 2");
 }
+
+function newFeature() {
+  console.log("New Feature");
+}
